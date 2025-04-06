@@ -1,0 +1,9 @@
+This is a placeholder file. Please replace it with your actual photo.
+
+Recommended image specifications:
+- Square format (1:1 aspect ratio)
+- At least 500x500 pixels
+- JPG, PNG, or WebP format
+- File size under 500KB for optimal performance
+
+Once you've added your photo, you can delete this placeholder file.

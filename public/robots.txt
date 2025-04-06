@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /demo
+Allow: /vizag
+Allow: /vijayawada
+Allow: /hyderabad
+Disallow: /login
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /profile
+Disallow: /settings
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://cybertrainer.in/sitemap.xml
+
+# Crawl delay for better server performance
+Crawl-delay: 5
